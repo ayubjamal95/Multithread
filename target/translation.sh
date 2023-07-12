@@ -1,0 +1,1 @@
+jar cfm assignment.jar manifest.mf assignment-1.0-SNAPSHOT.jar
